@@ -4,6 +4,14 @@
 
 This repository contains my **HTML, CSS, and JavaScript practical assignments** completed as part of my college coursework.
 
+# HTML-CSS-JAVASCRIPT-PRACTICAL
+Student Name: J.venkata punith
+Register Number: scds/1969/2025
+Class / Section: 7
+Subject:web technology
+Assignment: 1
+
+
 The project includes basic web development programs covering:
 
 * HTML fundamentals
